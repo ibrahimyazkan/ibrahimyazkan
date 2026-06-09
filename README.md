@@ -12,30 +12,21 @@
 <br>
 <br>
 
-<table>
-  <tr>
-    <td valign="top">
-      <ul style="list-style: none; padding-left: 0;">
-        <br>
-        <p align="center">
-         <img src="https://komarev.com/ghpvc/?username=ibrahimyazkan&label=Profil%20Goruntulenme&color=brightgreen&style=flat" alt="Profile Views" />
-        </p>
-        <h3 align="center">
-          <br><br>
-          Veritabanı Sistemleri, 
-          <hr>
-        </h3>
-        <li>🧠 <b>C#, Python SQL, HTML5, CSS3</b> teknolojileriyle çalışıyorum.</li>
-        <li>📬 Bana ulaşın : <a href="mailto:senin.eposta@gmail.com">senin.eposta@gmail.com</a></li>
-        <br>
-      </ul>
-    </td>
-    <td align="center" valign="middle" >
-    <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="350" height="400"  alt="Coding GIF" />
-</td>
-</tr>
-        
-</table>
+<div align="center">
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=ibrahimyazkan&label=Profil%20Goruntulenme&color=brightgreen&style=flat" alt="Profile Views" />
+  
+  <br><br>
+  
+  <h3>Veritabanı Sistemleri</h3>
+  <hr style="width: 60%;">
+  
+  <ul style="list-style: none; padding: 0;">
+    <li>🧠 <b>C#, Python, SQL, HTML5, CSS3</b> teknolojileriyle çalışıyorum.</li>
+  </ul>
+  
+  <br>
+</div>
 
 
 </div>
